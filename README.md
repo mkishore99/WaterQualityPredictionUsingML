@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This repository represents the final project submission for Group 4 (The Avengers) in the DSCI-6001 (Fall 2023) course under the guidance of Dr. Ardiana Sula.
+This repository represents the minor project submission for the group of 3 members under the course under the guidance of Dr. Arun Anoop M.
 
 The group members are:
 
-- [KISHORE M]([https://www.linkedin.com/in/mallikarjun-aitha/](https://www.linkedin.com/in/kishore-m-3b7853279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+- [KISHORE M]([https://www.linkedin.com/in/KISHORE M/](https://www.linkedin.com/in/kishore-m-3b7853279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 ## Project Overview
 
