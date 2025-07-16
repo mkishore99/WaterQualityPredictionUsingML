@@ -1,6 +1,6 @@
-# Water Quality Prediction
+# 💧 Water Quality Prediction Web App
 
-## Introduction
+### Introduction
 
 This repository represents the minor project submission for the group of 3 members under the course under the guidance of Dr. Arun Anoop M.
 
@@ -8,23 +8,43 @@ The group members are:
 
 - [KISHORE M]([https://www.linkedin.com/in/KISHORE M/](https://www.linkedin.com/in/kishore-m-3b7853279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
-## Project Overview
+This project is a responsive web application that allows users to input various water quality parameters and receive a prediction indicating whether the water is safe or unsafe.
+
+### 🔍 Prediction Result Page
+
+The **Prediction Result Page** is styled to display the outcome of the water quality prediction model in a clear and modern way.
+
+### 🖥️ Features:
+- Visually engaging interface using custom CSS
+- Displays the predicted result (e.g., "Safe" or "Unsafe")
+- Responsive design for mobile and desktop
+- Includes a "Go Back" button for re-entry of values
+
+### 🔧 Technologies Used:
+- **HTML5 & CSS3**
+- **Flask (Backend Integration Placeholder)**
+- **Custom Animations & Styling**
+
+This file helps in presenting a clean output view after the ML model processes user input.
+> 🚀 Feel free to clone, customize, and expand this as part of any water-quality monitoring or environmental analytics system.
+
+### Project Overview
 
 This repository contains the final project submission for the Water Quality Prediction. This project employs machine learning to predict water potability, assessing safety through diverse quality indicators. The dataset includes pH, hardness, and chemical concentrations, forming the basis for predictive models. Addressing imbalances, ethical concerns, and feature analysis, the project contributes to proactive water quality management, aiming for global access to clean and safe drinking water.
 
-## Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
 EDA tasks focus on visualizing missing values, understanding the distribution of potability, exploring relationships between columns, calculating correlations, and creating histograms. These steps collectively provide a comprehensive understanding of the dataset.
 
-## Results
+### Results
 
 The project employed various machine learning algorithms for classification, including Logistic Regression, Decision Tree Classifier, Random Forest Classifier, K-Nearest Neighbors (KNN), Support Vector Classifier (SVM), Naive Bayes, and XGBoost. SVM stood out for its robust performance, demonstrating superior accuracy and a balanced precision-recall trade-off compared to other models.
 
-## Application Deployment
+### Application Deployment
 
 A demo application was deployed using Flask, offering a simple web form for users to input water quality parameters and receive predictions on water potability. The application's code is hosted on [GitHub](https://github.com/Projects-UNH/Water-Quality-Prediction).
 
-## How to Run the Flask Application
+### How to Run the Flask Application
 
 1.**Clone the Repository:**
 ```python
