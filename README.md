@@ -6,10 +6,7 @@ This repository represents the final project submission for Group 4 (The Avenger
 
 The group members are:
 
-- [Mallikarjun Aitha](https://www.linkedin.com/in/mallikarjun-aitha/)
-- [Siri H G](https://www.linkedin.com/in/sirihg/)
-- [Shraddha Shrestha](https://www.linkedin.com/in/shraddha-shrestha-j06/)
-- Madhavi Kancham
+- [KISHORE M]([https://www.linkedin.com/in/mallikarjun-aitha/](https://www.linkedin.com/in/kishore-m-3b7853279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 ## Project Overview
 
